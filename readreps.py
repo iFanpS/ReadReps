@@ -1,5 +1,4 @@
 #iFanpSisNoob
-#MakeTheWorldWithCode - NumeX#1234
 import requests
 from pprint import pprint
 import json
